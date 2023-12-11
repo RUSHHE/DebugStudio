@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+/src/seven/one/test.txt
+/src/seven/two/test.txt
+/src/seven/three/test1.txt
+/src/seven/three/test2.txt
+/src/seven/five/test.txt
+/src/seven/six/test.txt
